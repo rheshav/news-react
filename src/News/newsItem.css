@@ -13,3 +13,10 @@
 .news-img {
   width: 450px;
 }
+
+.bio {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
